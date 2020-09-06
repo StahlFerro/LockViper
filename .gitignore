@@ -1,0 +1,6 @@
+.vscode/**
+*.txt
+*.bin
+*.pem
+rsa_forge.py
+rsa_encrypt.py
